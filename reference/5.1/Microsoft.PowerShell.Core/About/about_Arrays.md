@@ -219,7 +219,7 @@ Also, one common mistake is to assume `$a[0..-2]` refers to all the elements
 of the array, except for the last one. It refers to the first, last, and
 second-to-last elements in the array.
 
-You can use the plus operator (+) to combine a ranges with a list of elements
+You can use the plus operator (+) to combine a range with a list of elements
 in an array. For example, to display the elements at index positions 0, 2, and
 4 through 6, type:
 
